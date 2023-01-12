@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NewsMaza-react.js/static/css/main.abd64e84.css",
+    "main.js": "/NewsMaza-react.js/static/js/main.6562ef86.js",
+    "static/js/787.ec704a7a.chunk.js": "/NewsMaza-react.js/static/js/787.ec704a7a.chunk.js",
+    "static/media/Spinner-2.gif": "/NewsMaza-react.js/static/media/Spinner-2.0c2993480d0ca8008754.gif",
+    "index.html": "/NewsMaza-react.js/index.html",
+    "main.abd64e84.css.map": "/NewsMaza-react.js/static/css/main.abd64e84.css.map",
+    "main.6562ef86.js.map": "/NewsMaza-react.js/static/js/main.6562ef86.js.map",
+    "787.ec704a7a.chunk.js.map": "/NewsMaza-react.js/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.6562ef86.js"
+  ]
+}
